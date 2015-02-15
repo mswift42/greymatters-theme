@@ -197,6 +197,7 @@
    `(helm-grep-match ((,class (:foreground nil :background nil :inherit helm-match))))
    `(helm-grep-running ((,class (:foreground ,func :background ,bg1))))
    `(helm-moccur-buffer ((,class (:foreground ,func :background ,bg1))))
+   `(helm-source-go-package-godoc-description ((,class (:foreground ,key3))))
    `(web-mode-builtin-face ((,class (:inherit ,font-lock-builtin-face))))
    `(web-mode-comment-face ((,class (:inherit ,font-lock-comment-face))))
    `(web-mode-constant-face ((,class (:inherit ,font-lock-constant-face))))
